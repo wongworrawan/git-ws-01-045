@@ -1,2 +1,1 @@
-quize = 20
-quize01 = 20
+quize = 25
