@@ -1,1 +1,2 @@
 quize = 20
+quize01 = 20
